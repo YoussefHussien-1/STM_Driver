@@ -1,0 +1,3 @@
+../MCAL/RCC/RCC_program.c:33:16:Rcc_InitSysClock	2
+../MCAL/RCC/RCC_program.c:114:16:Rcc_EnablePeripheral	5
+../MCAL/RCC/RCC_program.c:161:16:Rcc_DisablePeripheral	5

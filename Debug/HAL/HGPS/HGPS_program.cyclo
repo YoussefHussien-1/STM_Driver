@@ -1,0 +1,3 @@
+../HAL/HGPS/HGPS_program.c:20:6:HGPS_voidInit	1
+../HAL/HGPS/HGPS_program.c:24:6:HGPS_voidGetFullSentence	2
+../HAL/HGPS/HGPS_program.c:45:5:HGPS_f32GetAltitude	6

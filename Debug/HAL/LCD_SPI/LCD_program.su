@@ -1,0 +1,6 @@
+../HAL/LCD_SPI/LCD_program.c:22:6:HLCD_voidInit	8	static
+../HAL/LCD_SPI/LCD_program.c:32:6:itoa	32	static
+../HAL/LCD_SPI/LCD_program.c:72:6:HLED_voidSetColor	16	static
+../HAL/LCD_SPI/LCD_program.c:85:6:ftoa	40	static
+../HAL/LCD_SPI/LCD_program.c:110:6:HLCD_voidSendChar	16	static
+../HAL/LCD_SPI/LCD_program.c:128:6:HLCD_voidPrintString	16	static

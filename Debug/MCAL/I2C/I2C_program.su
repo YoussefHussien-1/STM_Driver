@@ -1,0 +1,5 @@
+../MCAL/I2C/I2C_program.c:22:16:I2c_init	16	static
+../MCAL/I2C/I2C_program.c:37:4:I2c_vidSendStart	16	static
+../MCAL/I2C/I2C_program.c:44:4:I2c_vidSendAddress	24	static
+../MCAL/I2C/I2C_program.c:56:4:I2c_u8ReadData	24	static
+../MCAL/I2C/I2C_program.c:68:6:I2c_u8SendData	16	static

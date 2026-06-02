@@ -1,0 +1,5 @@
+../MCAL/EXTI/EXTI_program.c:22:16:EXTI_vEnableLine	24	static
+../MCAL/EXTI/EXTI_program.c:33:16:EXTI_vDisableLine	24	static
+../MCAL/EXTI/EXTI_program.c:44:16:EXTI_vSetSignalLatch	24	static
+../MCAL/EXTI/EXTI_program.c:76:16:EXTI_vSoftwareTrigger	24	static
+../MCAL/EXTI/EXTI_program.c:90:16:EXTI_vClearPendingFlag	24	static

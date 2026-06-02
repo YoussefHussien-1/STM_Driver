@@ -1,0 +1,3 @@
+../MCAL/SPI/SPI_program.c:18:16:Spi_init	4	static
+../MCAL/SPI/SPI_program.c:32:4:Spi_u8Transmit	16	static
+../MCAL/SPI/SPI_program.c:43:4:Spi_u8Receive	4	static

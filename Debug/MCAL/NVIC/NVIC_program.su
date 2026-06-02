@@ -1,0 +1,10 @@
+../MCAL/NVIC/NVIC_program.c:22:16:NVIC_EnableIRQ	24	static
+../MCAL/NVIC/NVIC_program.c:38:16:NVIC_DisableIRQ	24	static
+../MCAL/NVIC/NVIC_program.c:50:16:NVIC_GetPendingIRQ	24	static
+../MCAL/NVIC/NVIC_program.c:61:16:NVIC_SetPendingIRQ	24	static
+../MCAL/NVIC/NVIC_program.c:71:16:NVIC_ClearPendingIRQ	24	static
+../MCAL/NVIC/NVIC_program.c:84:16:NVIC_GetActive	24	static
+../MCAL/NVIC/NVIC_program.c:95:16:NVIC_SetPriority	24	static
+../MCAL/NVIC/NVIC_program.c:117:16:NVIC_GetPriority	24	static
+../MCAL/NVIC/NVIC_program.c:134:16:NVIC_SetPriorityGrouping	16	static
+../MCAL/NVIC/NVIC_program.c:143:16:NVIC_SystemReset	4	static

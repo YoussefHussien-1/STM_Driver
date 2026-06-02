@@ -1,0 +1,4 @@
+../MCAL/SysTickTimer/STK_program.c:21:6:STK_vInit	16	static
+../MCAL/SysTickTimer/STK_program.c:41:5:STK_u32GetElapsedTime	16	static
+../MCAL/SysTickTimer/STK_program.c:48:6:STK_voidSetBusyWait	16	static
+../MCAL/SysTickTimer/STK_program.c:65:5:STK_u32GetRemainingTime	16	static

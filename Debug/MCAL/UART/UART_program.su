@@ -1,0 +1,4 @@
+../MCAL/UART/UART_program.c:12:6:MUSART_voidInit	16	static
+../MCAL/UART/UART_program.c:24:6:UART_voidTransmit	16	static
+../MCAL/UART/UART_program.c:31:4:UART_u8Receive	16	static
+../MCAL/UART/UART_program.c:39:6:MUSART1_voidSendString	24	static
